@@ -1,0 +1,10 @@
+All features in MyDockFinder (Steam)
+Notch Companion (e.g. https://github.com/louis-cfm/coucou) that shows notifications instead of Windows notification menu, music lyrics and info (gathered from different sources, synced music preferrably. BetterLyrics for YouTube Music has good resources), local weather, quick insight into the next songs and a resizeable and pinnable lyrics menu like asked before
+On-Demand Grok usage with on-disk local memory.
+On-Desktop routines with Grok as the engine
+Able to ask questions like "When am I most active?"
+full macOS menu bar
+full macOS dock
+other macOS features
+no intrusive kernel driver
+Able to monitor Grok Build's work and update the user with notifications while grok build is in the Antigravity IDE's CLI terminal
